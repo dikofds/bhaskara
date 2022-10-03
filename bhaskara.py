@@ -1,7 +1,7 @@
 import math
 
 print('-------------------------------------------------------------------')
-print('RESOLUÇÃO BÁSKHARA by dikofds :)')
+print('RESOLUÇÃO BHASKARA by dikofds')
 print('-------------------------------------------------------------------')
 
 print('INSIRA OS VALORES:')
