@@ -26,8 +26,3 @@ elif delta > 0:
 
 else:
     print('-DELTA É NEGATIVO, SEM SOLUÇÃO.')
-    
-continuar = input('CONTINUAR NO PAINEL?(s ou n)\n-->')
-
-if continuar == 's':
-    print('fds nao te pergunteikkkkkkkk')
